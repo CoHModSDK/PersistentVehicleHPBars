@@ -1,7 +1,6 @@
 #include "CoHModSDK.hpp"
 
 #include <cstddef>
-#include <cstring>
 
 namespace {
     constexpr const char* kVehicleDecoratorUpdatePattern =
